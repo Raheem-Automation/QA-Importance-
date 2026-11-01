@@ -35,5 +35,3 @@ Test Framework Design
 Continuous Learning 🚀
 
 “Quality is never an accident; it is always the result of intelligent effort.”
-
-#QA #SoftwareTesting #AutomationTesting #Cypress #Selenium #APItesting #JMeter #Postman #QualityAssurance #Testing #Tech #OpenToWork #Learning #SoftwareEngineer
